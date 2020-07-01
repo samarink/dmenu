@@ -3,6 +3,8 @@
 *.bak
 patches
 util.o
-dwm.o
+dmenu
+dmenu.o
+stest
+stest.o
 drw.o
-dwm
